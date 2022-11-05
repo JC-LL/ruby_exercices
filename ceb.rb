@@ -23,6 +23,7 @@ class Solver
         end
       end
     end
+    puts "best solution : "
     puts @best_solution.formula
   end
 

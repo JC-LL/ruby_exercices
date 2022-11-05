@@ -1,0 +1,13 @@
+
+(
+  (entity test
+    (port
+      (in  clk std)
+      (in  a   (stdlv 15))
+      (out b   (stdlv 15))
+    )
+  )
+
+  (architecture rtl test
+  )
+)
